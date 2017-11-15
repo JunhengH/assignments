@@ -5,8 +5,11 @@ This repository serves to share assignment or homeworks from courses I have take
 ## UCLA Graduate Courses in Computer Science
 ### Fall 2017
 COM SCI 249: Big Data Analytics
+
 COM SCI 269: Machine Learning in Natural Language Processing
+
 COM SCI 246: Web Information Systems
+
 
 ## UCLA Undergraduate Courses
 To be updated in winter quarter
