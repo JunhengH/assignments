@@ -1,6 +1,6 @@
 # assignments
 
-This repository serves to share assignment or homeworks from courses I have taken (or are currently taking) in University of California, Los Angeles (UCLA) and Tsinghua University. 
+This repository serves to share assignment or homework from courses I have taken (or are currently taking) in University of California, Los Angeles (UCLA) and Tsinghua University. 
 
 ## UCLA Graduate Courses in Computer Science
 ### Fall 2017
